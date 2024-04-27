@@ -1,0 +1,161 @@
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim topmodulee.ngc topmodulee_synthesis.v 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim topmodulee.ngc topmodulee_synthesis.v 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 
+xst -intstyle ise -ifn "/home/ise/baithi/topmodulee.xst" -ofn "/home/ise/baithi/topmodulee.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc /home/ise/Desktop/spartan3e.ucf -p xc3s500e-fg320-4 topmodulee.ngc topmodulee.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o topmodulee_map.ncd topmodulee.ngd topmodulee.pcf 
+par -w -intstyle ise -ol high -t 1 topmodulee_map.ncd topmodulee.ncd topmodulee.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml topmodulee.twx topmodulee.ncd -o topmodulee.twr topmodulee.pcf 
+bitgen -intstyle ise -f topmodulee.ut topmodulee.ncd 

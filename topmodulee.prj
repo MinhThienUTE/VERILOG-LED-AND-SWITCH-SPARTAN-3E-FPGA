@@ -1,0 +1,5 @@
+verilog work "f5hz.v"
+verilog work "f2hz.v"
+verilog work "mode.v"
+verilog work "freq.v"
+verilog work "topmodulee.v"

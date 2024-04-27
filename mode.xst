@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/baithi/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/baithi/xst"
+elaborate
+-ifn mode.prj
+-ifmt mixed
